@@ -1,5 +1,5 @@
 # example
-
+Github actions example with vuejs
 ## Project setup
 ```
 yarn install
